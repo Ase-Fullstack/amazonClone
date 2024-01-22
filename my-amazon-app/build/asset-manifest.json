@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6f89e4a2.css",
+    "main.js": "/static/js/main.ab48b0dd.js",
+    "static/media/amazon_logo.svg": "/static/media/amazon_logo.03741306c91ce760c83ed5f2f50c4937.svg",
+    "index.html": "/index.html",
+    "main.6f89e4a2.css.map": "/static/css/main.6f89e4a2.css.map",
+    "main.ab48b0dd.js.map": "/static/js/main.ab48b0dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f89e4a2.css",
+    "static/js/main.ab48b0dd.js"
+  ]
+}
